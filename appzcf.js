@@ -39,7 +39,7 @@ function init(){
 <div id="content" class="mdui-container"></div>
 <div class="mdui-container">
 <div class="mdui-dialog" id="ContactModal">
-    <div class="mdui-dialog-content">Created By Ghost </div>
+    <div class="mdui-dialog-content"> Created By Ghost </div>
     <div class="mdui-dialog-actions">
       <button class="mdui-btn mdui-ripple" mdui-dialog-close>Close</button>
     </div>
